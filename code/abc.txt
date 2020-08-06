@@ -2,3 +2,4 @@
 hàm 2
 dong 3 lan 2
 da thay ðoi dong 3 lan 1
+1
